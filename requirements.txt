@@ -1,0 +1,13 @@
+fastai>=2.0
+fastbook
+torch
+torchvision
+cellpose
+numpy
+pandas
+Pillow
+scikit-image
+matplotlib
+imageio
+pywin32; platform_system == "Windows"
+

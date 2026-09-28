@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and the archived repository release."
+title: "TFEB image-screening pipeline"
+type: software
+authors:
+  - family-names: "Lu"
+    given-names: "Haocheng"
+version: "1.0.0"
+date-released: "2026-09-28"
+repository-code: "https://github.com/pkulhc/TFEB-image-screening-pipeline"
+abstract: "Code and trained model weights for an AI-assisted image-based pipeline for quantifying TFEB nuclear translocation and screening candidate TFEB agonists."
+keywords:
+  - TFEB
+  - image classification
+  - high-content screening
+  - Cellpose
+  - FastAI
